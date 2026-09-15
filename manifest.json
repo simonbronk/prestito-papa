@@ -4,8 +4,8 @@
   "description": "Registro pagamenti prestito",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#0d0d0d",
+  "background_color": "#0f1311",
+  "theme_color": "#135c41",
   "orientation": "portrait",
   "icons": [
     {
